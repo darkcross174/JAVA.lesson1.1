@@ -32,6 +32,4 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.
 
 
 
-https://yadi.sk/i/k8v_r_5FrnhU4w
-
 
