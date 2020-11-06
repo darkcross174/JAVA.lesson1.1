@@ -8,8 +8,8 @@
 
 В результатае тестирования выявлены следующие дефекты:
 
-* [второй и четвёртый из валидных ключей - не валидные](https://yadi.sk/i/k8v_r_5FrnhU4w)
-* [пятый из невалидных ключей - валидный](https://yadi.sk/i/GgQdQMsIGNqEPg)
+* [второй и четвёртый из валидных ключей - не валидные](https://yadi.sk/i/GgQdQMsIGNqEPg)
+* [пятый из невалидных ключей - валидный](https://yadi.sk/i/k8v_r_5FrnhU4w)
 
 **Описание процесса тестирования**
 
@@ -32,6 +32,6 @@ https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.
 
 
 
-
+https://yadi.sk/i/k8v_r_5FrnhU4w
 
 
